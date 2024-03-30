@@ -1,0 +1,12 @@
+/Users/jd/dev/consulting/rust_gui_egui4/target/debug/deps/libduplicate-859f43a14626093f.dylib: /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/lib.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/crate_readme_test.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/error.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/module_disambiguation.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/parse.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/pretty_errors.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/substitute.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/token_iter.rs
+
+/Users/jd/dev/consulting/rust_gui_egui4/target/debug/deps/duplicate-859f43a14626093f.d: /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/lib.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/crate_readme_test.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/error.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/module_disambiguation.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/parse.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/pretty_errors.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/substitute.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/token_iter.rs
+
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/lib.rs:
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/crate_readme_test.rs:
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/error.rs:
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/module_disambiguation.rs:
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/parse.rs:
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/pretty_errors.rs:
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/substitute.rs:
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/duplicate-1.0.0/src/token_iter.rs:

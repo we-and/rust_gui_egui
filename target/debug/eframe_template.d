@@ -1,0 +1,1 @@
+/Users/jd/dev/consulting/rust_gui_egui4/target/debug/eframe_template: /Users/jd/dev/consulting/rust_gui_egui4/assets/icon-256.png /Users/jd/dev/consulting/rust_gui_egui4/src/app.rs /Users/jd/dev/consulting/rust_gui_egui4/src/lib.rs /Users/jd/dev/consulting/rust_gui_egui4/src/main.rs

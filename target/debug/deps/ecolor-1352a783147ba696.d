@@ -1,0 +1,12 @@
+/Users/jd/dev/consulting/4/target/debug/deps/libecolor-1352a783147ba696.rmeta: /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/lib.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/color32.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/hsva_gamma.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/hsva.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/rgba.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/hex_color_runtime.rs
+
+/Users/jd/dev/consulting/4/target/debug/deps/libecolor-1352a783147ba696.rlib: /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/lib.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/color32.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/hsva_gamma.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/hsva.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/rgba.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/hex_color_runtime.rs
+
+/Users/jd/dev/consulting/4/target/debug/deps/ecolor-1352a783147ba696.d: /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/lib.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/color32.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/hsva_gamma.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/hsva.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/rgba.rs /Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/hex_color_runtime.rs
+
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/lib.rs:
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/color32.rs:
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/hsva_gamma.rs:
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/hsva.rs:
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/rgba.rs:
+/Users/jd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.27.0/src/hex_color_runtime.rs:

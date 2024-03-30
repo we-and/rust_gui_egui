@@ -1,0 +1,1 @@
+{"rustc":10406382783369853442,"features":"[\"default\", \"std\"]","declared_features":"","target":17542181268577254140,"profile":1528085818593491509,"path":7600365724628090767,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/smol_str-3f8d2d166bb9051c/dep-lib-smol_str"}}],"rustflags":[],"metadata":1791572373548511270,"config":2202906307356721367,"compile_kind":0}
